@@ -1,3 +1,18 @@
+## - NEVER SEND UP TO GITHUB
+########################
+/.env
+
+# Project Build Dirs #
+######################
+dist/
+src/.temp/
+.cache/
+.git/
+
+# Project Build Siles #
+######################
+static/rss.xml
+
 # Logs
 logs
 *.log
