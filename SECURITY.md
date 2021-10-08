@@ -8,11 +8,11 @@ CLI Version of Gridsome
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.3.4   | :white_check_mark: |
-| 0.3.4   | :x:                |
+| <0.3.   | :x:                |
 
 Gridsome Framwork
-| 0.7.23  | :red_check_mark:   |
-| > 0.7.X | :x:                |
+| 0.7.23  | :white_check_mark: |
+| < 0.7   | :x:                |
 
 ## Reporting a Vulnerability
 

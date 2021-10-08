@@ -2,9 +2,9 @@
   <Layout>
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <g-image alt="Example image" src="~/favicon.png" width="135" />
-
-    <h1>Hello, world!</h1>
-
+    <br />
+    <h1>Hello, peoples!</h1>
+    <br />
     <p>
       Nov. 19th 1863. “Four score and seven years ago our fathers brought forth
       on this continent a new nation, conceived in liberty, and dedicated to the
@@ -28,13 +28,13 @@
       and that government of the people, by the people, for the people, shall
       not perish from the earth.”
     </p>
-
+    <br />
     <p class="home-links">
       <a href="https://gridsome.org/docs/" target="_blank" rel="noopener"
         >Gridsome Docs</a
       >
       <a
-        href="https://github.com/gridsome/gridsome"
+        href="https://github.com/timothyhalley/tst.cascadezen.com"
         target="_blank"
         rel="noopener"
         >GitHub</a
@@ -46,7 +46,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Hello, world!",
+    title: "Test",
   },
 };
 </script>
